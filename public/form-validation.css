@@ -1,0 +1,10 @@
+body{background-image: url(/public/BG.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+
+}
+.container {
+  max-width: 960px;
+}
+
+.lh-condensed { line-height: 1.25; }
